@@ -1,3 +1,3 @@
 function downloadApp() {
-  window.location.href = "assets/app.exe";
+  window.location.href = "https://github.com/rovansekjon-crypto/jokoroko/releases/tag/v1.0";
 }
